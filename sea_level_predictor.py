@@ -1,3 +1,8 @@
+#Hi there, if you have any feedback on the code,
+#feel free to contact me on linkedin
+#https://www.linkedin.com/in/tyson-cheah
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
